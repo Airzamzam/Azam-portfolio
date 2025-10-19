@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Hero() {
+export default function HeroSection() {
   return (
     <section className="relative flex items-center justify-center px-6 py-20 md:py-32 min-h-screen bg-gray-900 text-white">
       <div className="bg-gray-800 rounded-3xl shadow-xl p-16 max-w-5xl w-full flex flex-col items-center justify-center hover:scale-[1.02] transition-transform">
